@@ -1,0 +1,5 @@
+leftnav:
+- identifier: 853a5c4a-f625-4892-a2ac-5cac372fdf53
+  name: Test Page
+  pageRef: /pages/test-page
+  weight: 10
